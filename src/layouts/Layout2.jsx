@@ -4,10 +4,10 @@ import Nav from '../components/Nav'
 
 const Layout2 = () => {
   return (
-    <div>Layout2
+    <div>Layout2 
       <Nav/>
         <Outlet/>
-        <h1>this should work with students </h1>
+        <h1>this should work with all </h1>
     </div>
   )
 }
