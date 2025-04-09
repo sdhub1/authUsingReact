@@ -7,7 +7,7 @@ const Layout2 = () => {
     <div>Layout2 
       <Nav/>
         <Outlet/>
-        <h1>this should work with all </h1>
+        <h1>this should work with all auth roles  </h1>
     </div>
   )
 }
